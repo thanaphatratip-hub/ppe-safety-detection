@@ -7,7 +7,7 @@ Real-time detection of personal protective equipment (helmet, high-visibility ve
 | **Course** | Robotics Laboratory 3 (01416516), KMITL |
 | **Date** | February – March 2026 |
 | **Team** | 6 members |
-| **My role** | Project lead; approximately 70% of the work |
+| **My role** | Planning, dataset, model training and deployment |
 
 ![Live demonstration on the Jetson Nano](media/demo_jetson.gif)
 
